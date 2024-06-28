@@ -10,7 +10,6 @@
 - 週末把每週進度複習
 - 今日題目，後天再做一次(在大腦開始遺忘時記起他)
 
-# 資料結構
 # 演算法
 
 ## DIVIDE and CONQUER
@@ -30,6 +29,8 @@ Link to list: https://leetcode.com/problem-list/m8kqvci5/
     - [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/?envType=problem-list-v2&envId=m8kqvci5)
 2. Advance
     - [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)
+
+# 資料結構
 
 ## Reference
 - [README Writing Style Reference](https://leetcode.com/discuss/general-discussion/1058072/LeetCode-Advised-Problems-Sorted-by-Topics-and-Directions)
