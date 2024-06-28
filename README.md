@@ -1,4 +1,4 @@
-# Leetcode - 新手的 14 個方向
+# Leetcode - 新手的 14 個難題
 
 ## Why I start to learn algorithm and data structure
 [演算法考試真正的價值所在，能赤裸的看出一個工程師最重要的兩大能力”分析問題”與”將理論化為實作” - by My Hero Arthur](https://medium.com/appworks-school/%E6%BC%94%E7%AE%97%E6%B3%95%E5%AD%B8%E7%BF%92%E4%B9%8B-leetcode-%E7%A0%B4%E9%97%9C%E7%B8%BD%E6%8C%87%E5%8D%97-%E4%B8%80-873b3fb65152)
